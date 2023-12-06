@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 昶峰綠能</title>
+    <link>https://www.example.com/tags/</link>
+    <description>Recent content in Tags on 昶峰綠能</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>css</title>
+      <link>https://www.example.com/tags/css/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.example.com/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>html</title>
+      <link>https://www.example.com/tags/html/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.example.com/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>markdown</title>
+      <link>https://www.example.com/tags/markdown/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.example.com/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>text</title>
+      <link>https://www.example.com/tags/text/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.example.com/tags/text/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>privacy</title>
+      <link>https://www.example.com/tags/privacy/</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.example.com/tags/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>shortcodes</title>
+      <link>https://www.example.com/tags/shortcodes/</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.example.com/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>index</title>
+      <link>https://www.example.com/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.example.com/tags/index/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

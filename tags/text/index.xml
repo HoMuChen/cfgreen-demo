@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>text on 昶峰綠能</title>
+    <link>https://www.example.com/tags/text/</link>
+    <description>Recent content in text on 昶峰綠能</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.example.com/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>名詞小教室ep.02 - COP26</title>
+      <link>https://www.example.com/post/placeholder-text/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.example.com/post/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
