@@ -2,57 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.example.com/</loc>
+    <loc>https://homuchen.com/cfgreen-demo/</loc>
     <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/tags/css/</loc>
+    <loc>https://homuchen.com/cfgreen-demo/tags/css/</loc>
     <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/tags/html/</loc>
+    <loc>https://homuchen.com/cfgreen-demo/tags/html/</loc>
     <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/tags/markdown/</loc>
+    <loc>https://homuchen.com/cfgreen-demo/tags/markdown/</loc>
     <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/post/</loc>
+    <loc>https://homuchen.com/cfgreen-demo/post/</loc>
     <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/series/</loc>
+    <loc>https://homuchen.com/cfgreen-demo/series/</loc>
     <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/tags/</loc>
+    <loc>https://homuchen.com/cfgreen-demo/tags/</loc>
     <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/tags/text/</loc>
+    <loc>https://homuchen.com/cfgreen-demo/tags/text/</loc>
     <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/series/themes-guide/</loc>
+    <loc>https://homuchen.com/cfgreen-demo/series/themes-guide/</loc>
     <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/post/math-typesetting/</loc>
+    <loc>https://homuchen.com/cfgreen-demo/post/math-typesetting/</loc>
     <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/post/placeholder-text/</loc>
+    <loc>https://homuchen.com/cfgreen-demo/post/placeholder-text/</loc>
     <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/post/markdown-syntax/</loc>
+    <loc>https://homuchen.com/cfgreen-demo/post/markdown-syntax/</loc>
     <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/post/rich-content/</loc>
+    <loc>https://homuchen.com/cfgreen-demo/post/rich-content/</loc>
     <lastmod>2023-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/tags/privacy/</loc>
+    <loc>https://homuchen.com/cfgreen-demo/tags/privacy/</loc>
     <lastmod>2023-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/tags/shortcodes/</loc>
+    <loc>https://homuchen.com/cfgreen-demo/tags/shortcodes/</loc>
     <lastmod>2023-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/archives/</loc>
+    <loc>https://homuchen.com/cfgreen-demo/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/about/</loc>
+    <loc>https://homuchen.com/cfgreen-demo/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/tags/index/</loc>
+    <loc>https://homuchen.com/cfgreen-demo/tags/index/</loc>
   </url>
 </urlset>
